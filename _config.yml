@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Zhidi Wu"
   pronouns         : # example: "she/her"  
-  bio              : "Project Engineer at Agapito Associates, LLC""
+  bio              : "Project Engineer at Agapito Associates, LLC"
   location         : "Grand Junction, Colorado"
   employer         : "Agapito Associates, LLC"
   uri              : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
