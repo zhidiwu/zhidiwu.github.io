@@ -23,7 +23,7 @@ repository               : "zhidiwu/zhidiwu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Zhidi Wu"
   pronouns         : # example: "she/her"  
   bio              : "Project Engineer at Agapito Associates, LLC"
