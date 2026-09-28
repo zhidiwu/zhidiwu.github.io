@@ -23,7 +23,7 @@ How CO₂-rich fluids chemically and mechanically alter sandstone reservoirs use
 ---
 
 ## 2. Bayesian Uncertainty Quantification of Geomechanical Properties
-*2019 – 2025 · University of Utah*
+*2019 – 2024 · University of Utah*
 
 A Bayesian framework and nanoindentation-based method that let engineers put honest confidence bounds on rock mechanical properties from limited, low-cost samples, instead of treating small datasets as if they carried the certainty of exhaustive testing. This is the measurement-science backbone the other three projects build on.
 
