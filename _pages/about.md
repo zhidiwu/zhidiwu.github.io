@@ -9,7 +9,7 @@ redirect_from:
 
 **Engineering the rock beneath a lower-carbon, more secure energy system.**
 
-I study how fluid flow, chemical reaction, and mechanical stress interact in subsurface rock, and I use high-pressure high-temperature experimental and Bayesian framework to study topics across CO₂ storage, geomechanical uncertainty quantification, geologic hydrogen, and salt cavern engineering.
+Dr. Zhidi Wu studies how fluid flow, chemical reaction, and mechanical stress interact in subsurface rock, and I use high-pressure high-temperature experimental and Bayesian framework to study topics across CO₂ storage, geomechanical uncertainty quantification, geologic hydrogen, and salt cavern engineering.
 
 Most researchers in subsurface energy specialize in one application: CO₂ storage, geomechanics, or, more rarely, geologic hydrogen. My research spans all three, unified by the same hydro-chemo-mechanical (HCM) coupling framework, the same high-pressure high-temperature flow-through experimental method, and a Bayesian uncertainty-quantification approach I developed to make small, expensive datasets usable with honest confidence bounds. At Agapito Associates, I now apply that toolkit to a fourth domain: numerical geomechanical modeling of solution-mined salt caverns used for critical-mineral production and energy storage.
 
