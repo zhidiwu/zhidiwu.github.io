@@ -51,11 +51,10 @@ Batch-reactor experiments on serpentinization, the reaction of iron-naturally ge
 ## 4. Engineering Solution Mining & Salt Cavern Storage
 *Current · Agapito Associates, LLC*
 
-Numerical geomechanical modeling (FLAC, SafeInCave) of solution-mineitical-mineral production (potash, boron) and energy storage (LNG,propane, hydrogen), designing cavern depth, geometry, and operating-pressure envelopes that keep these facilities stable across decades of leaching and pressure
-cycling.
+Numerical geomechanical modeling (FLAC, SafeInCave) of solution-mined salt caverns used for critical-mineral production (potash, boron) and energy storage (LNG, propane, hydrogen), designing cavern depth, geometry, and operating-pressure envelopes that keep these facilities stable across decades of leaching and pressure cycling.
 
 **1** published + **1** in review
 
 **Selected publications**
-- FLAC vs. SafeInCave cavern-closure comparison: ARMA 25-0433, 60th US Rock Mechanics / Geomechanics Symposium, Tucson, 2026
+- [FLAC vs. SafeInCave cavern-closure comparison](https://doi.org/10.56952/ARMA-2026-0604): ARMA-2026-0604, 60th U.S. Rock Mechanics/Geomechanics Symposium, Tucson, 2026
 - Peer-reviewed journal manuscript: *Open Geomechanics* (in review)
