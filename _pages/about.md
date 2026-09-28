@@ -28,7 +28,7 @@ Most researchers in subsurface energy specialize in one application: CO₂ stora
 - **M.S.:** New Mexico Tech, Hydrology
 - **B.S.:** New Mexico Tech, Geology; Yangtze University, Petroleum Geology
 - **Peer-reviewed publications:** 15, spanning 4 research areas
-- **Peer review:** 23 manuscripts for 10 venues since 2020
+- **Peer review:** 37 manuscripts for 11 journals since 2020
 - **Affiliations:** AGU · ARMA · SMRI
 
 *A full CV is available upon request. Please [email me](mailto:zwu@agapito.com).*
