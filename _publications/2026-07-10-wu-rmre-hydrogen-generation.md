@@ -6,5 +6,5 @@ permalink: /publication/2026-07-10-wu-rmre-hydrogen-generation
 date: 2026-07-10
 venue: 'Rock Mechanics and Rock Engineering'
 paperurl: 'https://doi.org/10.1007/s00603-026-05756-w'
-citation: '<b>Wu, Z.</b>, Ge, X., Li, Z. et al. (2026). "Experimental Parameterization of Geological Hydrogen Production via Stimulated Serpentinization." <i>Rock Mechanics and Rock Engineering</i>.'
+citation: '<b>Wu, Z.</b>, Ge, X., Li, Z., Neil, C., Wang, S., Li, W. (2026). "Experimental Parameterization of Geological Hydrogen Production via Stimulated Serpentinization." <i>Rock Mechanics and Rock Engineering</i>.'
 ---
