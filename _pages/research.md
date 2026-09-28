@@ -9,7 +9,7 @@ My work spans four areas of subsurface energy science and engineering, unified b
 ---
 
 ## 1. Carbon Storage & CO₂-EOR
-*2016 – 2025 · New Mexico Tech / University of Utah*
+*2016 – 2024 · New Mexico Tech / University of Utah*
 
 How CO₂-rich fluids chemically and mechanically alter sandstone reservoirs used for carbon storage and enhanced oil recovery. HPHT flow-through experiments on Farnsworth Unit core showed that cement mineralogy and texture, not just porosity, control whether a reservoir stays mechanically robust after decades of injection.
 
