@@ -25,8 +25,8 @@ Most researchers in subsurface energy specialize in one application: CO₂ stora
 - **Now:** Project Engineer, Agapito Associates
 - **Prior:** Postdoctoral Researcher, Los Alamos National Laboratory
 - **Ph.D.:** University of Utah, Civil & Environmental Engineering
-- **M.S.:** New Mexico Tech
-- **B.S.:** New Mexico Tech & Yangtze University
+- **M.S.:** New Mexico Tech, Hydrology
+- **B.S.:** New Mexico Tech, Geology
 - **Peer-reviewed publications:** 13, spanning 4 research areas
 - **Peer review:** 23 manuscripts for 10 venues since 2020
 - **Affiliations:** AGU · ARMA · SMRI
