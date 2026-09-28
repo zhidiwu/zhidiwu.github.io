@@ -30,3 +30,5 @@ Most researchers in subsurface energy specialize in one application: CO₂ stora
 - **Peer-reviewed publications:** 15, spanning 4 research areas
 - **Peer review:** 23 manuscripts for 10 venues since 2020
 - **Affiliations:** AGU · ARMA · SMRI
+
+*A full CV is available upon request. Please [email me](mailto:zwu@agapito.com).*
